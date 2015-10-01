@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+npm-debug.log
+
+g_result.json
+y_result.json
+b_result.json
